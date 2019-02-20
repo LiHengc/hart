@@ -12,7 +12,6 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>解析接口</title>
-    <link rel="shortcut icon" href="favicon.ico" />
     <link href="css/pucms.css" rel="stylesheet">
     <script src="js/jquery.min.js" type="text/javascript"></script>
     <script src="js/pucms.js" type="text/javascript"></script>
